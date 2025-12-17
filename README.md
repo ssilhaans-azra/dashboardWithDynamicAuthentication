@@ -1,0 +1,2 @@
+# dashboardWithDynamicAuthentication
+Dashboard with dynamic authentication
